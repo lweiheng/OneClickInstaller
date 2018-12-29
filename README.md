@@ -1,0 +1,2 @@
+# OneClick Installer collection
+## metasploit
